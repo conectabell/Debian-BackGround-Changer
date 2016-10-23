@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /home/antonov/fondo_pantalla/
+cd /home/username/fondo_pantalla/
 while :
 do
 dir='/home/USERNAME/fondo_pantalla/'
